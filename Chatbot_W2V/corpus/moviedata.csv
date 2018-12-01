@@ -1,0 +1,15 @@
+movie,genre,actor,seat,theatre,location,language,date,time,size
+Karwaan,drama,Irfan Khan,platinum,PVR phoenix marketcity,Bangalore,Hindi,today,morning,10
+Karwaan,drama,Irfan Khan,corner,VR mall,Bangalore,Hindi,tomorrow,evening,20
+Karwaan,drama,Irfan Khan,middle,INOX,Bangalore,Hindi,Monday,morning,5
+happy fir bhaag jaegi,comedy,Sonakshi Sinha,middle,PVR phoenix marketcity,Bangalore,Hindi,tomorrow,morning,3
+dabang,comedy,Sonakshi Sinha,middle,PVR phoenix marketcity,Bangalore,Hindi,tomorrow,morning,10
+happy fir bhaag jaegi,comedy,Sonakshi Sinha,corner,PVR phoenix marketcity,Bangalore,Hindi,tomorrow,evening,2
+happy fir bhaag jaegi,comedy,Sonakshi Sinha,front,PVR phoenix marketcity,Bangalore,Hindi,tomorrow,evening,1
+happy fir bhaag jaegi,comedy,Sonakshi Sinha,platinum,PVR phoenix marketcity,Bangalore,Hindi,tomorrow,evening,10
+Harry Potter,fantasy,Daniel Radcliffe,platinum,Garuda Mall,Bangalore,English,today,morning,18
+Harry Potter,fantasy,Emma Watson,platinum,Garuda Mall,Bangalore,English,today,morning,18
+Harry Potter,fantasy,Daniel Radcliffe,front,Garuda Mall,Bangalore,English,today,morning,18
+Harry Potter,fantasy,Emma Watson,front,Garuda Mall,Bangalore,English,today,morning,18
+Harry Potter,fantasy,Daniel Radcliffe,middle,Garuda Mall,Bangalore,English,today,morning,18
+Harry Potter,fantasy,Daniel Radcliffe,middle,Garuda Mall,Bangalore,English,today,morning,1

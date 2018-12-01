@@ -1,0 +1,32 @@
+restaurant,cuisine,location,cost,size,date,time
+China Pearl,chinese,east,medium,10,today,morning
+Mainland China,chinese,north,expensive,5,today,evening
+Mainland China,chinese,south,expensive,2,tomorrow,night
+Toscano,italian,east,expensive,1,tomorrow,night
+Toscano,italian,west,expensive,9,today,night
+Andhra Mess,South indian,west,cheap,4,tomorrow,morning
+Andhra Mess,South indian,north,cheap,4,today,morning
+Andhra Mess,South indian,south,cheap,4,today,noon
+Andhra Mess,South indian,east,cheap,4,tomorrow,noon
+Andhra Mess,South indian,south,cheap,4,today,night
+Andhra Mess,South indian,east,cheap,4,tomorrow,night
+mcdonald,fastfood,west,cheap,4,tomorrow,morning
+mcdonald,fastfood,north,cheap,4,today,morning
+mcdonald,fastfood,south,cheap,4,today,noon
+mcdonald,fastfood,east,cheap,4,tomorrow,noon
+mcdonald,fastfood,south,cheap,4,today,night
+mcdonald,fastfood,east,cheap,4,tomorrow,night
+Dominos,fastfood,west,cheap,4,tomorrow,morning
+Dominos,fastfood,north,cheap,4,today,morning
+Dominos,fastfood,north,cheap,4,tomorrow,morning
+Dominos,fastfood,south,cheap,4,today,noon
+Dominos,fastfood,east,cheap,4,tomorrow,noon
+Dominos,fastfood,south,cheap,4,today,night
+Dominos,fastfood,east,cheap,4,tomorrow,night
+Pizza Hut,fastfood,west,cheap,4,tomorrow,morning
+Pizza Hut,fastfood,north,cheap,4,today,morning
+Pizza Hut,fastfood,south,cheap,4,today,noon
+Pizza Hut,fastfood,east,cheap,4,tomorrow,noon
+Pizza Hut,fastfood,south,cheap,4,today,night
+Pizza Hut,fastfood,east,cheap,4,tomorrow,night
+Fatty Bao,Mexican,north,medium,2,today,afternoon
